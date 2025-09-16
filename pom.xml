@@ -11,6 +11,7 @@
     <modules>
         <module>core</module>
         <module>users-work</module>
+        <module>password-work</module>
     </modules>
 
     <properties>
