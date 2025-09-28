@@ -13,6 +13,7 @@
         <module>users-work</module>
         <module>password-work</module>
         <module>filter-chain</module>
+        <module>auth-provider</module>
     </modules>
 
     <properties>
