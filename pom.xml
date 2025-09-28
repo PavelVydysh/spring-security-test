@@ -12,6 +12,7 @@
         <module>core</module>
         <module>users-work</module>
         <module>password-work</module>
+        <module>filter-chain</module>
     </modules>
 
     <properties>
