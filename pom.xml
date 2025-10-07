@@ -14,6 +14,7 @@
         <module>password-work</module>
         <module>filter-chain</module>
         <module>auth-provider</module>
+        <module>authorization-endpoints-7</module>
     </modules>
 
     <properties>
