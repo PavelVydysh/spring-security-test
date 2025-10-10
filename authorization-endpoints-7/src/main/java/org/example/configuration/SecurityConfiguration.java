@@ -45,7 +45,7 @@ public class SecurityConfiguration {
         httpSecurity.httpBasic(Customizer.withDefaults());
 
         httpSecurity.authorizeHttpRequests(
-                c -> c.anyRequest().access().hasAnyAuthority("WRITE", "READ")
+                c -> c.anyRequest().hasAnyAuthority("WRITE", "READ")
         );
 
         return httpSecurity.build();
