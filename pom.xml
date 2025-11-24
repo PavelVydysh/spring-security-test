@@ -15,6 +15,7 @@
         <module>filter-chain</module>
         <module>auth-provider</module>
         <module>authorization-endpoints-7</module>
+        <module>csrf</module>
     </modules>
 
     <properties>
