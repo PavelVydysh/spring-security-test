@@ -1,0 +1,4 @@
+server:
+  port: 8081
+
+key-set-uri: http://localhost:8080/oauth2/jwks
